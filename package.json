@@ -1,0 +1,19 @@
+{
+  "name": "jthawme-utils",
+  "version": "1.0.0",
+  "description": "A set of utils i was copy and pasting",
+  "main": "lib/utils.js",
+  "repository": "https://github.com/jthawme/utils",
+  "author": "Jonny Thaw",
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "./lib/utils.js"
+  ],
+  "dependencies": {
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
