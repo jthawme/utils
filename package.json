@@ -10,6 +10,9 @@
   "files": [
     "./lib/utils.js"
   ],
+  "scripts": {
+    "release": "standard-version && npm publish"
+  },
   "dependencies": {
     "uuid": "^11.1.0"
   },
